@@ -1,4 +1,4 @@
-# adminpanel
+# Elite Notification JavaScript
 
 ## Project setup
 ```
